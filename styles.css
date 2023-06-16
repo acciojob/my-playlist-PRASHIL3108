@@ -3,12 +3,12 @@ body{
 	background-color:#cccccc;
 }
 .player_one{
-	background-color:white;	
+	background-color:rgb(255,255,255);	
 	border:1px solid grey;
 	border-radius:5px;
 }
 .player_two{
-	background-color:white;	
+	background-color:rgb(255,255,255);	
 	padding:5px;
 	border:1px solid grey;
 	border-radius:5px;
@@ -22,4 +22,11 @@ ul{
 }
 a{
 	text-decoration-line:none;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
 }
