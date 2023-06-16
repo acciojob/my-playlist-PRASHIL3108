@@ -1,1 +1,37 @@
-/*  your css code here. If applicable */
+ul{
+    list-style-type:none;
+    
+}
+
+a{
+    text-decoration-line: none;
+}
+
+body{
+    background-color: #cccccc;
+}
+
+.player_one{
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.player_two{
+    background-color: white;
+    border:1px solid grey;
+    border-radius: 10px;
+    width: max-content;
+    height: auto;
+    padding: 5px;
+    margin-left:auto;
+	margin-right:auto;
+}
